@@ -1,2 +1,2 @@
-#!/bin/bas
+#!/bin/bash
 in -s /bin/ls __ls__
